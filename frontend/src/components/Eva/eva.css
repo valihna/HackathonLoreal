@@ -1,0 +1,42 @@
+.evaCtn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 200px;
+}
+
+.backgroundEva {
+  width: 100%;
+  height: auto;
+}
+
+.eva {
+  width: 100%;
+  object-fit: cover;
+}
+
+.evaTxt {
+  width: 98%;
+  text-align: left;
+}
+
+.evaTxtCtn {
+  display: flex;
+  justify-content: center;
+}
+
+.eva2 {
+  width: 400px;
+}
+
+.eva2Txt {
+  width: 500px;
+  text-align: left;
+}
+.eva2Ctn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
